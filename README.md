@@ -1,2 +1,0 @@
-# flipkaart-clone
-# flipkart-clone

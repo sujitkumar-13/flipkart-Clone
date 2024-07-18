@@ -17,7 +17,9 @@ body {
     cursor: pointer;
 }
 
-.hader1{
+/* header css end  */
+
+.hader1 {
     padding: 10px 0;
     background-color: #fff;
     margin-bottom: 5px;
@@ -89,7 +91,8 @@ body {
     align-self: center;
 }
 
-.word2, .word1 {
+.word2,
+.word1 {
     font-size: 20px;
     align-self: center;
     justify-self: center;
@@ -103,7 +106,7 @@ body {
     margin-top: 3px;
 }
 
-.box1:hover{
+.box1:hover {
     background-color: rgb(176, 222, 240);
 }
 
@@ -144,7 +147,8 @@ i {
         display: none;
     }
 
-    .small-container, .small-container2 {
+    .small-container,
+    .small-container2 {
         width: 60px;
     }
 
@@ -176,7 +180,8 @@ i {
         font-size: 12px;
     }
 
-    .small-container, .small-container2 {
+    .small-container,
+    .small-container2 {
         width: 50px;
     }
 
@@ -253,7 +258,8 @@ i {
         margin-top: 8px 0 0 4px;
     }
 
-    .image3, .dots {
+    .image3,
+    .dots {
         display: none;
     }
 
@@ -352,6 +358,7 @@ i {
 
 /* Header CSS end */
 
+/* categories div end */
 .categories {
     display: flex;
     justify-content: center;
@@ -384,7 +391,8 @@ i {
     font-size: 12px;
 }
 
-.categories, .category {
+.categories,
+.category {
     min-width: 110px;
 }
 
@@ -445,6 +453,7 @@ i {
 
 /* Category Css end */
 
+/* container3 css start */
 .container3 {
     margin-bottom: 5px;
     background-color: #fff;
@@ -457,6 +466,7 @@ i {
 
 /* container3 div css end */
 
+/* main-container5 css start*/
 .main-container5 {
     border: 1px solid #fff;
     background-color: #fff;
@@ -493,48 +503,53 @@ i {
     gap: 10px;
 }
 
-.electronic-object{
+.electronic-object {
     width: 220px;
 }
 
-.furniture-object, .physical-object{
+.furniture-object,
+.physical-object {
     width: 230px;
 }
 
-.style-object{
+.style-object {
     height: 300px;
 }
 
-.beauty-object{
+.beauty-object {
     height: 320px;
     width: 240px;
 }
 
-.kid-object{
+.kid-object {
     height: 330px;
     width: 220px;
 }
 
-.deal-object{
+.deal-object {
     width: 240px;
     height: 310px;
 }
 
-.TV-object{
+.TV-object {
     width: 330px;
 }
 
-.object:hover, .new-list:hover, .list:hover {
+.object:hover,
+.new-list:hover,
+.list:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.1);
     transform: scale(1.03);
 }
 
-.picture, .photo {
+.picture,
+.photo {
     height: 80%;
     width: 100%;
 }
 
-.picture img, .photo img {
+.picture img,
+.photo img {
     height: 100%;
     width: 100%;
 }
@@ -576,33 +591,31 @@ i {
         gap: 9px;
     }
 
-    .price {
-        align-items: center;
-    }
-
-    .electronic-object{
+    .electronic-object {
         width: 190px;
     }
 
-    .furniture-object, .physical-object {
-        width: 200px;
-    }  
-    
-    .style-object, .TV-object{
-        height: 260px;
-    }
-
-    .beauty-object{
-        height: 260px;
+    .furniture-object,
+    .physical-object {
         width: 200px;
     }
 
-    .kid-object{
+    .style-object,
+    .TV-object {
+        height: 260px;
+    }
+
+    .beauty-object {
+        height: 260px;
+        width: 200px;
+    }
+
+    .kid-object {
         height: 270px;
         width: 220px;
     }
 
-    .deal-object{
+    .deal-object {
         width: 240px;
         height: 270px;
     }
@@ -645,27 +658,31 @@ i {
         width: 27%;
     }
 
-    .photo, .photo0{
+    .photo,
+    .photo0 {
         width: 30%;
     }
 
-    .photo1{
+    .photo1 {
         width: 29%;
     }
 
-    .beauty-object, .kid-object{
+    .beauty-object,
+    .kid-object {
         padding: 5px;
     }
 
-    .photo2, .photo4{
+    .photo2,
+    .photo4 {
         width: 31%;
     }
 
-    .photo3, .photo5{
+    .photo3,
+    .photo5 {
         width: 32%;
     }
 
-    .photo6{
+    .photo6 {
         width: 50%;
     }
 
@@ -698,31 +715,34 @@ i {
         gap: 3px;
     }
 
-    .photo, .photo1{
+    .photo,
+    .photo1 {
         width: 31%;
     }
-    
-    .photo0{
+
+    .photo0 {
         width: 34%;
     }
 
-    .beauty-object, .kid-object{
+    .beauty-object,
+    .kid-object {
         padding: 4px;
     }
 
-    .photo2, .photo5{
+    .photo2,
+    .photo5 {
         width: 35%;
     }
 
-    .photo3{
+    .photo3 {
         width: 36%;
     }
 
-    .photo4{
+    .photo4 {
         width: 33%;
     }
 
-    .photo6{
+    .photo6 {
         width: 50%;
     }
 }
@@ -737,35 +757,39 @@ i {
         height: 130px;
     }
 
-    .photo{
+    .photo {
         width: 35%;
     }
-    
-    .photo0, .photo3{
+
+    .photo0,
+    .photo3 {
         width: 38%;
     }
 
-    .photo1{
+    .photo1 {
         width: 35%;
     }
 
-    .photo2{
+    .photo2 {
         width: 39%;
     }
 
-    .photo4{
+    .photo4 {
         width: 40%;
     }
 
-    .photo5{
+    .photo5 {
         width: 39%;
     }
 
-    .photo6{
+    .photo6 {
         width: 51%;
     }
 }
 
+/* main-container5 css end  */
+
+/* container7 css start */
 .container7 {
     display: flex;
     gap: 10px;
@@ -786,7 +810,7 @@ i {
     grid-column-end: 3;
 }
 
-.head{
+.head {
     font-size: 22px;
 }
 
@@ -887,35 +911,38 @@ i {
     }
 }
 
-@media(max-width: 375px){
+@media(max-width: 375px) {
 
-    .list{
+    .list {
         width: 170px;
         height: 230px;
     }
 }
 
-@media(max-width: 320px){
-    
-    .header{
+@media(max-width: 320px) {
+
+    .header {
         font-size: 10px;
     }
 
-    .list{
+    .list {
         width: 130px;
         height: 150px;
     }
 
     .list-name h1 {
         font-size: 13px;
-        margin: 4px 0 0  0;
+        margin: 4px 0 0 0;
     }
 
-    .list-name p{
+    .list-name p {
         font-size: 15px;
     }
 }
 
+/* container7 css end */
+
+/* container8 css start */
 .container8 {
     display: flex;
     gap: 10px;
@@ -931,29 +958,32 @@ i {
     background-color: #fff;
 }
 
-.new{
+.new {
     padding: 13px;
     width: 100%;
     background-color: #fff;
 }
 
-.new-list{
+.new-list {
     height: 100%;
     width: 100%;
 }
 
-.new-list img{
+.new-list img {
     width: 100%;
     height: 100%;
-} 
+}
 
-@media(max-width: 1024px){
-    .new{
+@media(max-width: 1024px) {
+    .new {
         display: none;
     }
 }
 
-.footer{
+/* container8 css end */
+
+/* footer css start */
+.footer {
     display: flex;
     flex-direction: column;
     padding: 20px;
@@ -961,21 +991,21 @@ i {
     color: #565656;
 }
 
-.footer-1{
+.footer-1 {
     margin: 0 auto;
     line-height: 1.5;
 }
 
-.footer-header{
+.footer-header {
     padding: 10px 0;
 }
 
-.footer-header h1{
+.footer-header h1 {
     font-size: 20px;
     font-weight: bolder;
 }
 
-.footer-para1{
+.footer-para1 {
     margin-top: 3px;
 }
 
@@ -984,11 +1014,11 @@ i {
     font-size: 16px;
 }
 
-.footer-para1 p{
+.footer-para1 p {
     font-size: 13px;
 }
 
-footer{
+footer {
     background-color: #212121;
     display: flex;
     flex-direction: column;
@@ -996,29 +1026,29 @@ footer{
     color: white;
 }
 
-.container8{
+.container8 {
     display: flex;
     margin-top: 20px;
 }
 
-.about{
-    padding: 10px;   
+.about {
+    padding: 10px;
     display: flex;
     flex-direction: column;
 }
 
-.nice{
+.nice {
     color: gray;
     font-size: 13px;
     margin-bottom: 5px;
     width: 140px;
 }
 
-.points{
+.points {
     display: flex;
     flex-direction: column;
     justify-content: start;
-    padding: 0 50px 0 0 ;
+    padding: 0 50px 0 0;
 }
 
 .points li {
@@ -1032,125 +1062,129 @@ footer{
     font-weight: bolder;
 }
 
-hr{
+hr {
     border-color: gray;
 }
 
-.information{
+.information {
     padding: 10px;
 }
 
-.info{
+.info {
     font-size: 13px;
     margin-top: 10px;
     color: white;
     line-height: 18px;
 }
 
-.social{
+.social {
     margin-top: 20px;
 }
 
-.links{
+.links {
     padding: 10px;
 }
 
-i{
+i {
     font-size: 20px;
     margin-right: 15px;
 }
 
-.line{
+.line {
     margin-top: 40px;
     border-color: gray;
 }
 
-.advertisement{
+.advertisement {
     margin-top: 15px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
 
-.items{
+.items {
     display: flex;
     align-items: center;
 }
 
-a{
+a {
     text-decoration: none;
     color: white;
 }
 
-.items img{
+.items img {
     height: 12px;
     width: 13px;
 }
 
-.adver-images img{
+.adver-images img {
     height: 100%;
 }
 
-@media(max-width: 1024px){
-    .container8{
+@media(max-width: 1024px) {
+    .container8 {
         display: grid;
-        grid-template-columns: repeat(3,1fr);   
+        grid-template-columns: repeat(3, 1fr);
     }
 
-    .hr{
+    .hr {
         display: none;
     }
 
-    .items a{
+    .items a {
         font-size: 12px;
     }
 
-    .web{
+    .web {
         font-size: 15px;
     }
 }
 
-@media(max-width: 768px){
+@media(max-width: 768px) {
 
-    .advertisement, .items a{
-        font-size: 8px; 
+    .advertisement,
+    .items a {
+        font-size: 8px;
     }
-    
-    .web{
+
+    .web {
         font-size: 9px;
     }
 }
 
-@media(max-width: 425px){
+@media(max-width: 425px) {
 
-    .container8, .advertisement{
+    .container8,
+    .advertisement {
         display: grid;
-        grid-template-columns: repeat(1,1fr);   
+        grid-template-columns: repeat(1, 1fr);
     }
 
-    .advertisement{
+    .advertisement {
         line-height: 30px;
     }
 
-    .items a{
+    .items a {
         font-size: 13px;
     }
 
-    .web{
+    .web {
         font-size: 12px;
     }
 
-    .payment{
+    .payment {
         margin-top: 10px;
     }
 }
 
-@media(max-width: 375px){
-    .adver-images{
+@media(max-width: 375px) {
+    .adver-images {
         overflow-x: auto;
     }
 
-    .adver-images::-webkit-scrollbar{
+    .adver-images::-webkit-scrollbar {
         width: 0;
     }
 }
+
+/* footer css end */
